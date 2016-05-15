@@ -9,5 +9,6 @@
 *.war
 *.ear
 # test roy003 #
+# roy001又修改了 ignore #
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
